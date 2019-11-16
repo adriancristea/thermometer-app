@@ -2,7 +2,8 @@
 
 A Python aplication that presents a thermometer object
 
-## PPrerequisites
+## Prerequisites
+
 
 
 
